@@ -24,6 +24,7 @@ Reactは基本的にブラウザ（クライアント）側でレンダリング
 SSRやSSGは事前にレンダリングを行う。表示速度やSEOで有利。
 
 Linkタグを使うことでページ遷移時に必要な要素だけ書き換えるという最適化が行われるらしい。
+![Next-Link](https://nextjs.org/static/images/learn/navigate-between-pages/client-side.gif)
 
 # MathJax とは
 
