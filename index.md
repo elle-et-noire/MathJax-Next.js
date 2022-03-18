@@ -1,7 +1,17 @@
 ---
 marp: true
----
+headingDivider: 1
+style: |
+    section.title {
+        justify-content: center;
+        text-align: center;
+    }
 
+    section {
+        justify-content: start;
+    }
+---
+<!-- _class: title -->
 # Next.js で MathJax を使おうとして苦労した話
 
 # Next.js とは
